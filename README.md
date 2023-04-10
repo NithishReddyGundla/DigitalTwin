@@ -1,6 +1,6 @@
 # DigitalTwin
 ### Built a city-scale digital twin of Bexar County, Texas. 
-### The digital twin is a geo-physically accurate virtual representation of the real world and is composed of several layers that individually represent buildings, vegetation, roads and highways, and infrastructures (e.g., power transmission lines).
+### The digital twin is a geo-physically accurate virtual representation of the real world and is composed of several layers that individually represent buildings, vegetation, roads and highways, and infrastructures (e.g., power transmission lines etc.).
 
 ## Analysis
 ### In-depth analysis done in ArcGIS Pro
