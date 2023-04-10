@@ -3,7 +3,7 @@ Built a city-scale digital twin of Bexar County, Texas.
 
 ## Analysis
 In-depth analysis done in ArcGIS Pro
-![Img1 image](/Images/Img.png)
+[Img1 image](/Images/Img.png)
 
 
 Performed complex street network analysis using OpenStreetMaps and OSMNx
