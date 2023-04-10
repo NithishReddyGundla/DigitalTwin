@@ -31,13 +31,16 @@
 ## Data integration into CityEngine
 ### After the overlapping issues of geo-referenced roads and buildings is resolved then the data is imported into CityEngine. This is the complex data which consists of 200K+ 3D objects.
 
+![](Images/Img10.png)
+
 ## Data integration into NVIDIA OMNIVERSE
 ### To perform real-time 3D physics simulations and virtual inspection capabilities, the twin was simulated in NVIDIA Omniverse and integrated with VR & AR tech (Meta’s Oculus Quest 2, Microsoft’s Hololens) for visualization and teleporting of grid engineers. * * 
 
-*NVIDIA said this is the largest project in Universal Scene Description (USD) format within Omniverse till date.
+# | NVIDIA said this is the largest project in Universal Scene Description (USD) format within Omniverse till date. |
 
-![](Images/Img10.png)
 ![](Images/Img11.png)
+![](Images/Img19.png)
+![](Images/Img20.png)
 
 ### Also integrated Microsoft's AirSim (with Unity plugin) to test and train autonomous systems (tested on drone) in a safe and controlled environment (Digital Twin).
 
